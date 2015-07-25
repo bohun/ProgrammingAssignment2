@@ -1,6 +1,6 @@
 ## The two functions below create 
 
-# makeCacheMatrix creates the object that stores a numeric matrix (functions argument) and cache's its inversion
+# makeCacheMatrix creates the object that stores a numeric matrix and cache's its inversion
 
 makeCacheMatrix <- function(x = numeric()) {
     m <- NULL
